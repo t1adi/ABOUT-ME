@@ -1,2 +1,4 @@
 # ABOUT-ME
-My first repository
+My first git repository.
+<br>
+Managed by - Aditya Raj
